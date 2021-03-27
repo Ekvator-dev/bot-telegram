@@ -2,7 +2,7 @@
 domain='http://okultizm.site'
 #на сервере удалить {direction} в bot.py в строке request
 direction='schedule' 
-token='1621290841:AAHVosQVeBjuExwPo5FX7LG6E76gTOXT9ls'
+token='ТОКЕН БОТА'
 #from https://docs.pdfshift.io/#converting-an-url
 tokens=['ef26540f179c4a67bb9fc5637f7eb712',
 'bc1ca79b733d4cfa830617350dcfb41e',
